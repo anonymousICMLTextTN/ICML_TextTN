@@ -1,3 +1,3 @@
 # ICML_TextTN
 
-![Bond-Acc]("Figure")
+![Bond-Acc](Figure.png)
